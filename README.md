@@ -1,14 +1,31 @@
-# UIKit Catalog — Programmatic (Views created in Code)
+# UIKit Catalog (Views in Code)
 
-[![CI](https://github.com/kamilgomolka/apple-ui-catalog-uikit-code/actions/workflows/ci.yml/badge.svg)](https://github.com/kamilgomolka/apple-ui-catalog-uikit-code/actions/workflows/ci.yml)
+<p align="left">
+    <img src="./UIKitCatalogCode/SupportingFiles/Assets.xcassets/AppIcon.appiconset/AppIcon-Light.png" width="64" height="64" alt="App Icon" />
+</p>
+
 [![Swift](https://img.shields.io/badge/Swift-6.0-F05138.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/iOS-26.0%2B-000000.svg)](https://developer.apple.com/ios/)
 [![Xcode](https://img.shields.io/badge/Xcode-26-1575F9.svg)](https://developer.apple.com/xcode/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
-UIKit reference app, views created programatically. Each system control is built in the Swift code, and is shown with its public properties exercised, so you can see how UIKit controls actually look. No third-party libraries, no in-house custom widgets.
+UIKit reference app, presenting showcases for build-in controls provided by Apple in UIKit SDK.
+
+No third-party libraries, no in-house custom widgets.
 
 iPhone (portrait) and iPad (all orientations). Light and Dark Mode follow the system appearance.
+
+## Recordings
+
+https://github.com/user-attachments/assets/db34c8fa-21db-4309-8509-6c966725cc7b
+
+https://github.com/user-attachments/assets/e06f18ac-31e2-4f63-b86b-5291708325e0
+
+https://github.com/user-attachments/assets/33a237b5-f137-4378-8165-7ed6f0f1e9f2
+
+https://github.com/user-attachments/assets/0009c022-90ce-47cc-b04d-fea8c7bd5759
+
+https://github.com/user-attachments/assets/097c1826-18ea-46ca-a3ad-e345193b1476
 
 ## What It Shows
 
